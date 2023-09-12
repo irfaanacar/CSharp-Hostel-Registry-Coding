@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PansiyonKayit\bin\Debug\PansiyonKayit.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PansiyonKayit\bin\Debug\PansiyonKayit.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PansiyonKayit\bin\Debug\PansiyonKayit.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PansiyonKayit\obj\Debug\PansiyonKayit.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PansiyonKayit\obj\Debug\PansiyonKayit.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PansiyonKayit\obj\Debug\PansiyonKayit.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PansiyonKayit\obj\Debug\PansiyonKayit.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PansiyonKayit\obj\Debug\PansiyonKayit.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PansiyonKayit\obj\Debug\PansiyonKayit.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PansiyonKayit\obj\Debug\PansiyonKayit.pdb
